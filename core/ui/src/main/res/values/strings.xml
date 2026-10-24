@@ -1,0 +1,8 @@
+<resources>
+    <string name="core_ui_state_unscratched">Unscratched</string>
+    <string name="core_ui_state_scratched">Scratched</string>
+    <string name="core_ui_state_activated">Activated</string>
+    <string name="core_ui_card_title">Scratch card</string>
+    <string name="core_ui_code_hidden">Scratch to reveal the code</string>
+    <string name="core_ui_card_state_description">Card state: %1$s</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="feature_activation_title">Activate card</string>
+    <string name="feature_activation_back">Back</string>
+    <string name="feature_activation_action">Activate</string>
+    <string name="feature_activation_in_progress">Activating… you can leave the screen, activation will finish in the background.</string>
+    <string name="feature_activation_hint_unscratched">Scratch the card first to reveal its code.</string>
+    <string name="feature_activation_hint_scratched">Send the revealed code to activate the card.</string>
+    <string name="feature_activation_hint_activated">The card is activated.</string>
+    <string name="feature_activation_error_title">Activation failed</string>
+    <string name="feature_activation_error_rejected">The card cannot be activated (android version %1$d).</string>
+    <string name="feature_activation_error_network">Activation service is unavailable. Check your connection and try again.</string>
+    <string name="feature_activation_error_invalid_response">Activation service returned an unexpected response.</string>
+    <string name="feature_activation_error_invalid_state">The card must be scratched and not yet activated.</string>
+    <string name="feature_activation_error_ok">OK</string>
+</resources>

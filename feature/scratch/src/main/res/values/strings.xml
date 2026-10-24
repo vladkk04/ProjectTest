@@ -1,0 +1,8 @@
+<resources>
+    <string name="feature_scratch_title">Scratch card</string>
+    <string name="feature_scratch_back">Back</string>
+    <string name="feature_scratch_action">Scratch</string>
+    <string name="feature_scratch_in_progress">Scratching… leaving the screen cancels it.</string>
+    <string name="feature_scratch_hint_unscratched">Scratch the card to reveal its code.</string>
+    <string name="feature_scratch_hint_done">The card has already been scratched.</string>
+</resources>
